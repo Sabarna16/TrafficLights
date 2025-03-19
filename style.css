@@ -1,0 +1,26 @@
+body{
+    margin: 20px;
+    padding: 30px;
+    text-align: center;
+    background-color: black;
+}
+h1{
+    color: palegreen;
+}
+#Light{
+    height: 400px;
+    width: 300px;
+}
+button
+{
+    width:70px;
+    height:30px;
+    background-color:antiquewhite;
+    color:brown;
+    justify-content: space-between;
+}
+button:hover{
+    cursor:pointer;
+    background-color: chocolate;
+    color:rgb(136, 26, 26);
+}
